@@ -1,4 +1,3 @@
-// src/Components/Footer.jsx (Without react-icons)
 import React from 'react';
 
 function Footer() {
