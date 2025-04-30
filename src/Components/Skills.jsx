@@ -1,4 +1,3 @@
-// src/Components/Skills.jsx
 import React from 'react';
 
 function Skills() {
