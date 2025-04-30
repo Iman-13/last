@@ -1,4 +1,3 @@
-// src/Components/Home.jsx
 import React from 'react';
 
 function Home() {
