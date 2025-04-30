@@ -1,4 +1,3 @@
-// src/Components/Navbar.jsx
 import React from 'react';
 
 function Navbar({ toggleMenu, menuOpen }) {
