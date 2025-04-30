@@ -11,11 +11,11 @@ function Contact() {
           <a href="mailto:iman@example.com" className="social-icon">📧</a>
           <a href="tel:09708447594" className="social-icon">📞</a>
           <a href="https://www.facebook.com/emmanuel.aviles.629348" target="_blank" rel="noreferrer" className="social-icon">FB</a>
-          <a href="https://github.com/Iman-13" target="_blank" rel="noreferrer" className="social-icon">GH</a>
+          <a href="https://github.com/Iman-13" target="_blank" rel="noreferrer" className="social-icon">⚛️</a>
         </div>
       </div>
     </section>
   );
 }
 
-export default Contact;
+export default Contact; 

@@ -1,4 +1,3 @@
-// src/Components/About.jsx
 import React from 'react';
 
 function About() {
@@ -10,7 +9,7 @@ function About() {
         <p>I specialize in web development, gaming, and programming. My goal is to become a full-stack developer contributing to meaningful projects.</p>
       </div>
       <div className="about-img">
-        <img src="iman2.jpg" alt="About Me" />
+        <img src="Iman2.jpg" alt="About Me" />
       </div>
     </section>
   );
